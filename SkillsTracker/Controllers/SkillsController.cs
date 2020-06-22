@@ -55,7 +55,7 @@ namespace SkillsTracker.Controllers
                             "<option value=''>--Select your experience level--</option>" +
                             "<option value='novice'>Just the basics</option>" +
                             "<option value='competent'>Making programs and apps</option>" +
-                            "<option value='master'>Master of the code</option>" +
+                            "<option value='expert'>Master of the code</option>" +
                         "</select>" +
                     "</label>";
         }
